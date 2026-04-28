@@ -1,4 +1,3 @@
-// FAQ.jsx
 import { useState } from "react";
 import { faqs } from "../utils/products";
 
@@ -19,7 +18,6 @@ function FAQItem({ faq, isOpen, onToggle }) {
         >
           {faq.question}
         </p>
-        \
         <div
           className="shrink-0 w-7 h-7 rounded-full flex items-center justify-center transition-colors duration-200"
           style={{ background: "#1e3310" }}
