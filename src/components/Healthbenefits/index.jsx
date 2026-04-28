@@ -1,6 +1,6 @@
-import NutritionalClarity from "./NutritionalClarity";
-import IngredientFiltering from "./IngredientFiltering";
-import RealHealthOutcomes from "./RealhealthOutcomes";
+import NutritionalClarity from "./Nutritionalclarity";
+import IngredientFiltering from "./Ingredientfiltering";
+import RealHealthOutcomes from "./Realhealthoutcomes";
 
 export default function HealthBenefits() {
   return (
