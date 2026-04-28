@@ -1,6 +1,6 @@
-import ScanDetect from "./ScanDetect";
-import DataAnalysis from "./DataAnalysis";
-import ActionableInsights from "./ActionableInsights";
+import ScanDetect from "./Scandetect";
+import DataAnalysis from "./Dataanalysis";
+import ActionableInsights from "./Actionableinsights";
 
 export default function HowItWorks() {
   return (
